@@ -135,7 +135,7 @@ nav ul li a:hover{
     display: flex;
     margin: auto;
     margin-top: -2rem;
-    width: 90%;
+    width: 70%;
 }
 #aboutMe{
     margin-top: -90px;
@@ -252,6 +252,10 @@ nav ul li a:hover{
         margin-bottom: 0;
         margin-top: 0;
     }
+    .about-me-p{
+        width: 80%;
+        margin-top: 1rem;
+    }
     .font-size-subtitulo{
         font-size: 30px;
         font-weight: 600;
@@ -367,9 +371,6 @@ nav ul li a:hover{
     }
     #aboutMe{
         margin-top: -15rem;
-    }
-    .about-me-p{
-        margin-top: 1rem;
     }
     .text-left-mobile{
         text-align: left;

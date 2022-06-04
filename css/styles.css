@@ -389,7 +389,7 @@ nav ul li a:hover{
         margin-top: -14rem;
     }
     .each-experience{
-        width: 95%;
+        width: 70%;
         margin-top: -0.5rem;
     }
     .description-experience{
@@ -439,5 +439,11 @@ nav ul li a:hover{
     }
     .each-ability{
         width: 105%;
+    }
+    .each-experience{
+        width: 80%;
+    }
+    .description-experience{
+        margin-left: 20%;
     }
 }

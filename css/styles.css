@@ -53,8 +53,8 @@ nav ul li a:hover{
     display: flex;
     flex-direction: column;
     margin: auto;
-    max-width: 65rem;
-    margin-bottom: 1rem;
+    max-width: 40rem;
+    margin-bottom: 3rem;
 }
 .background-lines-1{
     background-image: url(/images/Group\ 99.svg);
@@ -93,11 +93,11 @@ nav ul li a:hover{
     font-weight: 600;
 }
 .font-size-titulo{
-    font-size: 100px;
+    font-size: 70px;
     font-weight: 600;
 }
 .font-size-body{
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
 }
 .font-size-subsection{
@@ -122,7 +122,7 @@ nav ul li a:hover{
     margin-right: 12rem;
 }
 .mb_-4rem{
-    margin-bottom: -5rem;
+    margin-bottom: -3rem;
 }
 .container-home{
     width: 100%;
@@ -261,7 +261,7 @@ nav ul li a:hover{
         font-weight: 600;
     }
     .font-size-titulo{
-        font-size: 75px;
+        font-size: 60px;
     }
     .font-size-subsection{
         font-size: 25px;

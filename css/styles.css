@@ -63,7 +63,7 @@ nav ul li a:hover{
     background-size: 100%;
     width: 100%;
     height: 695px;
-    opacity: 0.5;
+    /* opacity: 0.5; */
 }
 
 .background-lines-2{
@@ -72,15 +72,18 @@ nav ul li a:hover{
     background-size: 100vw;
     width: 100%;
     height: 22rem;
-    opacity: 0.5;
-    margin-top: 20rem;
+    /* opacity: 0.5;
+    margin-top: 20rem; */
 }
 .personal-foto{
+    border-radius: 100rem;
     min-width: 18%;
     height: 57%;
     margin: auto;
     margin-top: 2rem;
     margin-bottom: 0.5rem;
+    filter: brightness(70%);
+  /*   opacity: 0.9; */
 }
 .grey-color{
     color: #ADADAD;
@@ -111,7 +114,7 @@ nav ul li a:hover{
     text-align: center;
 }
 .container-info-home{
-    margin-top: -40rem;
+    margin-top: -12rem;
 }
 .container-social-media-icon{
     width: 100%;
@@ -270,12 +273,12 @@ nav ul li a:hover{
         font-size: 25px;
         font-weight: 600;
     }
-    .background-lines-2{
+    /* .background-lines-2{
         margin-top: 10rem;
-    }
-   /*  .container-info-home{
-        margin-top: -40rem;
     } */
+    .container-info-home{
+        margin-top: -21rem;
+    }
     .mb_-4rem{
         margin-bottom: -3rem;
     }
@@ -324,9 +327,9 @@ nav ul li a:hover{
     .font-size-titulo{
         font-size: 63px;
     }
-    /* .container-info-home{
+    .container-info-home{
         margin-top: -24rem;
-    } */
+    }
     .menu-icon{
         display: block;
     }
@@ -375,9 +378,9 @@ nav ul li a:hover{
     .mb_-4rem{
         margin-bottom: -1rem;
     }
-   /*  .container-info-home{
+    .container-info-home{
         margin-top: -30rem;
-    } */
+    }
     #aboutMe{
         margin-top: -15rem;
     }

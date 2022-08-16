@@ -325,7 +325,6 @@ nav ul li a:hover {
 .proyect-links a:active {
     text-decoration: none;
 }
-
 .container-contact {
     display: flex;
     width: 50%;
@@ -469,6 +468,13 @@ nav ul li a:hover {
 
     .projects {
         grid-template-columns: 1fr;
+    }
+
+    .projects{
+        grid-template-columns: 1fr;
+    }
+    .project-links{
+        height: 25%;
     }
 }
 
